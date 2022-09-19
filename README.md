@@ -1,6 +1,6 @@
 ![Photo of John Dalziel](./ProfileBanner.png)
 
-### Web Techie, Gamer and Time Enthusiast
+### DevOps Engineer and Time Enthusiast
 
 <!--
 **crashposition/crashposition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
